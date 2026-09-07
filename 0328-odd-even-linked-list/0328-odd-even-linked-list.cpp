@@ -11,39 +11,34 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        ListNode *even=new ListNode(-1);
-        ListNode *odd=new ListNode(-1);
 
-        ListNode *even_tail=even;
-        ListNode *odd_tail=odd;
-
-        ListNode *current=head;
-        ListNode *previous=nullptr;
-
-        int count=1;
-
-        while(current)
+        if(head==nullptr)
         {
-            if(count%2!=0)
-            {
-                odd_tail->next=current;
-                odd_tail=odd_tail->next;
-            }
-            else
-            {
-                even_tail->next=current;
-                even_tail=even_tail->next;
-            }
-            previous=current;
-            current=current->next;
-            previous->next=nullptr;
-            count++;
+            return nullptr;
+        }
+        if(head->next==nullptr)
+        {
+            return head;
         }
 
-        even=even->next;
+        ListNode *odd=head;
+        ListNode *even=head->next;
+
+        ListNode *odd_tail=odd;
+        ListNode *even_tail=even;
+
+        while(even_tail && even_tail->next)
+        {
+            odd_tail->next=even_tail->next;
+            odd_tail=odd_tail->next;
+
+            even_tail->next=odd_tail->next;
+            even_tail=even_tail->next;
+        }
+
         odd_tail->next=even;
 
-        return odd->next;
-
+        return odd;
+        
     }
 };
