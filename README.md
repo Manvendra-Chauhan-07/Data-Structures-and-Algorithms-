@@ -202,6 +202,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0066-plus-one](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0382-linked-list-random-node) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -265,6 +266,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0234-palindrome-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -366,4 +368,12 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
