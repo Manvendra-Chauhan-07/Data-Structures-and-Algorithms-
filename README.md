@@ -71,6 +71,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0042-trapping-rain-water](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -263,6 +264,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0061-rotate-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0148-sort-list) |
