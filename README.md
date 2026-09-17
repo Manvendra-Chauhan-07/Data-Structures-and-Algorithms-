@@ -282,6 +282,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0328-odd-even-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
