@@ -155,6 +155,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Greedy
 |  |
@@ -181,6 +182,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +289,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -299,6 +302,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0203-remove-linked-list-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
