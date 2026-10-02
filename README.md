@@ -435,4 +435,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
