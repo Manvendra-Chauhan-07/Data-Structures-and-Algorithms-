@@ -8,47 +8,39 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-ListNode *recursiveSwap(ListNode* previous,ListNode* current){
-
-    if(current==nullptr){
-        // current->next=previous;
-        // previous->next=nullptr;
-        return previous;
-    }
-    if(current->next==nullptr){
-        current->next=previous;
-        previous->next=nullptr;
-        return current;
-    }
-
-    previous->next=recursiveSwap(current->next,current->next->next);
-
-    current->next=previous;
-
-    return current;
-
-}
 class Solution {
 public:
+
+    ListNode *swap(ListNode *current,ListNode *future){
+        if(future==nullptr){
+            return current;
+        }
+
+        if(future->next==nullptr){
+            current->next=nullptr;
+            future->next=current;
+            return future;
+        }
+
+        // current->next=nullptr;
+        // future->next=current;
+
+        current->next=swap(future->next,future->next->next);
+        future->next=current;
+
+        return future;
+    }
+
+
     ListNode* swapPairs(ListNode* head) {
         
         if(head==nullptr){
+            return nullptr;
+        }
+        if(head->next==nullptr){
             return head;
         }
-        
-        if(head->next==nullptr)
-        {
-            return head;
-        }
 
-        ListNode *previous=head;
-        ListNode *current=head->next;
-
-        return recursiveSwap(previous,current);
-
- 
-        
-        
+        return swap(head,head->next);
     }
 };
