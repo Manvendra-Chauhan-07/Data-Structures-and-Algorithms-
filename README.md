@@ -96,6 +96,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -355,6 +356,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -384,6 +386,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -414,6 +417,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -475,4 +479,5 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
