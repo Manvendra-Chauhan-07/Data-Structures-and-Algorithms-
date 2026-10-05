@@ -60,6 +60,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -239,6 +240,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 ## Geometry
@@ -355,6 +357,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0144-binary-tree-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -416,6 +419,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0144-binary-tree-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
