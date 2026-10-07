@@ -29,6 +29,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0566-reshape-the-matrix) |
+| [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
@@ -116,6 +117,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0148-sort-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0445-add-two-numbers-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
@@ -189,6 +192,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0042-trapping-rain-water](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
@@ -370,6 +374,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0572-subtree-of-another-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -444,6 +449,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0572-subtree-of-another-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -515,4 +521,8 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0572-subtree-of-another-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
