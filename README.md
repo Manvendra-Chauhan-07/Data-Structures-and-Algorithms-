@@ -207,6 +207,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -374,6 +375,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0572-subtree-of-another-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -410,6 +412,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0572-subtree-of-another-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -449,6 +452,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0572-subtree-of-another-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
