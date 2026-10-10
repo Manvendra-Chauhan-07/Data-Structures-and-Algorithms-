@@ -388,6 +388,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -422,6 +423,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -467,6 +469,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -490,6 +493,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
