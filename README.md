@@ -390,6 +390,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +425,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -471,6 +473,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
