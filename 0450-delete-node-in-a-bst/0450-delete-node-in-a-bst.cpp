@@ -12,56 +12,39 @@
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-
-        if(root==nullptr)
-        {
+        
+        if(root==nullptr){
             return nullptr;
         }
 
-        if(root->val==key)
-        {
-            if(root->left==nullptr && root->right==nullptr)
-            {
+        if(key==root->val){
+
+            if(root->left==nullptr && root->right==nullptr){
                 return nullptr;
             }
-            else if((root->left!=nullptr && root->right==nullptr) || (root->left==nullptr && root->right!=nullptr))
-            {
-                if(root->left!=nullptr)
-                {
-                    return root->left;
+            else if(root->left==nullptr && root->right!=nullptr){
+                return root->right;
+            }else if(root->left!=nullptr && root->right==nullptr){
+                return root->left;
+            }else{
+                TreeNode *temp=root->right;
+                while(temp->left!=nullptr){
+                    temp=temp->left;
                 }
-                else
-                {
-                    return root->right;
-                }
-            }
-            else
-            {
-                TreeNode *temp=root->left;
-
-                while(temp->right)
-                {
-                    temp=temp->right;
-                }
-
-                int value=temp->val;
 
                 root->val=temp->val;
 
-                root->left=deleteNode(root->left,value);
-
-                return root;
-
+                root->right = (deleteNode(root->right,temp->val));
             }
+
+            return root;
         }
-        
-        if(key>root->val)
-        {
-            root->right=deleteNode(root->right,key);
+
+        if(key<root->val){
+            root->left = deleteNode(root->left,key);
         }
-        else
-        {
-            root->left=deleteNode(root->left,key);
+        if(key>root->val){
+            root->right = deleteNode(root->right,key);
         }
 
         return root;
