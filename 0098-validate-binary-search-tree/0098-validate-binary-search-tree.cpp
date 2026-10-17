@@ -9,33 +9,32 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-void myInorder(TreeNode *root, vector<int> &arr)
-{
-    if(root==nullptr)
-    {
-        return;
-    }
-
-    myInorder(root->left,arr);
-    arr.push_back(root->val);
-    myInorder(root->right,arr);    
-}
 class Solution {
 public:
-    bool isValidBST(TreeNode* root) {
-
-        vector<int> arr;
-
-        myInorder(root,arr);
-
-        for(int i=1;i<arr.size();i++)
-        {
-            if(arr[i]<=arr[i-1])
-            {
-                return false;
-            }
+    void traverse(TreeNode *root, long long &prevValue, bool &answer){
+        if(root==nullptr){
+            return;
         }
-        return true;
+
+        traverse(root->left,prevValue,answer);
+
+        if(root->val<=prevValue){
+            answer=false;
+        }else{
+            prevValue=root->val;
+        }
+
+        traverse(root->right,prevValue,answer);
+    }
+
+    bool isValidBST(TreeNode* root) {
+        
+        long long prevValue = LLONG_MIN;
+        bool answer=true;
+
+        traverse(root,prevValue,answer);
+
+        return answer;
+
     }
 };
