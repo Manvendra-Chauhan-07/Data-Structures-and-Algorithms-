@@ -384,6 +384,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -424,6 +425,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -471,6 +473,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -499,6 +502,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -512,6 +516,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
