@@ -36,6 +36,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -166,6 +167,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -198,6 +200,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -393,6 +396,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -485,6 +489,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -526,6 +531,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
