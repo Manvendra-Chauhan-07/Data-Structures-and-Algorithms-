@@ -218,6 +218,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
@@ -226,6 +227,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0901-online-stock-span](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0901-online-stock-span) |
 | [0919-complete-binary-tree-inserter](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0919-complete-binary-tree-inserter) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -398,6 +400,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -438,6 +441,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
@@ -491,6 +495,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -519,6 +524,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
