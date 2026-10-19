@@ -383,6 +383,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -430,6 +431,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -479,6 +481,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -539,6 +542,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
