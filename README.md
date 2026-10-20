@@ -407,6 +407,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -452,6 +453,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -511,6 +513,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
