@@ -31,6 +31,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0724-find-pivot-index) |
@@ -247,6 +248,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -287,6 +289,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
