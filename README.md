@@ -390,6 +390,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -446,6 +447,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -501,6 +503,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0226-invert-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -624,8 +627,10 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
