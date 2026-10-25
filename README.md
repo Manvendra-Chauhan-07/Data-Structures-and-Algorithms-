@@ -115,6 +115,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2409-count-days-spent-together) |
 | [3340-check-balanced-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3340-check-balanced-string) |
 ## Divide and Conquer
 |  |
@@ -254,6 +255,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2409-count-days-spent-together) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
