@@ -38,6 +38,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1260-shift-2d-grid) |
@@ -128,6 +129,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,6 +292,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -352,6 +355,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -633,4 +637,20 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
