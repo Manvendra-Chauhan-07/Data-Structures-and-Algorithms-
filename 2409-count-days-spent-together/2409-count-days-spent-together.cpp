@@ -1,35 +1,33 @@
 class Solution {
 public:
 
-    int findDays(string s, int totalDays[]){
+    int calculateDays(string s,int totalMonthsDays[] ){
 
         int months = stoi(s.substr(0,2));
         int days = stoi(s.substr(3));
 
-        return totalDays[months-1]+days;
+        return totalMonthsDays[months-1]+days;
     }
 
     int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
+        
+        int months[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
-        int monthDays[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-
-        int totalDays[13];
-
-        totalDays[0]=0;
-        totalDays[1]=monthDays[0];
+        int totalMonthsDays[13];
+        totalMonthsDays[1]=months[0];
 
         for(int i=2;i<=12;i++){
-            totalDays[i]=totalDays[i-1]+monthDays[i-1];
+            totalMonthsDays[i]=totalMonthsDays[i-1]+months[i-1];
         }
 
-        int arriveAliceDays = findDays(arriveAlice,totalDays);
-        int leaveAliceDays = findDays(leaveAlice,totalDays);
-        int arriveBobDays = findDays(arriveBob,totalDays);
-        int leaveBobDays = findDays(leaveBob,totalDays);
 
-        int totalDayTogether = min(leaveBobDays,leaveAliceDays) - max(arriveAliceDays,arriveBobDays)+1;
+        int DaysarriveAlice  = calculateDays(arriveAlice, totalMonthsDays);
+        int DaysleaveAlice = calculateDays(leaveAlice,totalMonthsDays);
+        int DaysarriveBob = calculateDays(arriveBob,totalMonthsDays);
+        int DaysleaveBob = calculateDays(leaveBob,totalMonthsDays);
 
-        return totalDayTogether<0? 0 : totalDayTogether;
-        
+        int ans = min(DaysleaveBob,DaysleaveAlice) - max(DaysarriveAlice,DaysarriveBob)+1;
+
+        return ans<0? 0 : ans;
     }
 };
