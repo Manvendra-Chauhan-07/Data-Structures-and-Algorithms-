@@ -52,6 +52,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1732-find-the-highest-altitude](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -188,6 +189,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Simulation
 |  |
 | ------- |
@@ -647,6 +649,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
