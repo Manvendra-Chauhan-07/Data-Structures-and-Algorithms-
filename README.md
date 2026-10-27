@@ -40,6 +40,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1046-last-stone-weight) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -643,6 +644,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
