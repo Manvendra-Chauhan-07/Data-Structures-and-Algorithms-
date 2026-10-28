@@ -27,6 +27,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -297,6 +298,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
