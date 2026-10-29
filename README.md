@@ -48,6 +48,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -241,6 +242,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
@@ -312,6 +314,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
