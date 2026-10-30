@@ -30,6 +30,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0238-product-of-array-except-self](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
@@ -142,6 +143,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
@@ -238,6 +240,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0160-intersection-of-two-linked-lists](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
@@ -318,6 +321,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -331,6 +335,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -675,6 +680,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1046-last-stone-weight) |
@@ -683,6 +689,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -697,6 +704,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
