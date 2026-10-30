@@ -125,6 +125,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1108-defanging-an-ip-address](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2409-count-days-spent-together) |
 | [3340-check-balanced-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3340-check-balanced-string) |
@@ -246,6 +247,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
 ## Design
@@ -289,6 +291,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0222-count-complete-tree-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
+| [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Geometry
 |  |
 | ------- |
@@ -326,6 +329,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | ------- |
 | [0169-majority-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
