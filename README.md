@@ -70,6 +70,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [2206-divide-array-into-equal-pairs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2404-most-frequent-even-element) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2574-left-and-right-sum-differences](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -336,6 +337,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0238-product-of-array-except-self](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2906-construct-product-matrix) |
 ## Sorting
 |  |
