@@ -43,6 +43,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0692-top-k-frequent-words](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
+| [0846-hand-of-straights](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
@@ -209,6 +210,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 ## Greedy
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Simulation
@@ -254,6 +256,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0652-find-duplicate-subtrees](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
+| [0846-hand-of-straights](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0846-hand-of-straights) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -335,6 +338,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
