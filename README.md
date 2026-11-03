@@ -66,6 +66,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2404-most-frequent-even-element) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
@@ -267,6 +268,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -313,6 +315,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0287-find-the-duplicate-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Geometry
 |  |
@@ -360,6 +363,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2404-most-frequent-even-element) |
 ## Linked List
