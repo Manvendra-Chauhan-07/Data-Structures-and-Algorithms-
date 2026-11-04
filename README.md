@@ -58,6 +58,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
