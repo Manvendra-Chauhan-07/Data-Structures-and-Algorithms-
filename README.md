@@ -134,6 +134,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0058-length-of-last-word](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0771-jewels-and-stones) |
@@ -261,6 +262,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0217-contains-duplicate](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -321,6 +323,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0222-count-complete-tree-nodes](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -355,6 +358,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0347-top-k-frequent-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0692-top-k-frequent-words) |
