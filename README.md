@@ -69,6 +69,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1991-find-the-middle-index-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2270-number-of-ways-to-split-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2404-most-frequent-even-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2404-most-frequent-even-element) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -339,6 +340,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0724-find-pivot-index](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2906-construct-product-matrix) |
 ## Sorting
