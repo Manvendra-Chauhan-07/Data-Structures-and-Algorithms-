@@ -72,6 +72,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [2256-minimum-average-difference](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2404-most-frequent-even-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2614-prime-in-diagonal) |
@@ -148,6 +149,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2418-sort-the-people) |
 | [3340-check-balanced-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3340-check-balanced-string) |
 ## Divide and Conquer
 |  |
@@ -282,6 +284,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [2206-divide-array-into-equal-pairs](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2418-sort-the-people) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
 ## Design
@@ -370,6 +373,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2418-sort-the-people](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2418-sort-the-people) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
