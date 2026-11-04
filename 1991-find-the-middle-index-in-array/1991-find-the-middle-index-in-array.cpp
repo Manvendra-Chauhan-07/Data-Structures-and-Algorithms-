@@ -5,27 +5,22 @@ public:
         int n = nums.size();
 
         int totalSum = 0;
-
         for(int i=0;i<n;i++){
             totalSum = totalSum + nums[i];
         }
 
-        int prefix[n];
-        prefix[0]=0;
+        int leftSum=0;
 
-        for(int i=1;i<n;i++){
-            prefix[i] = prefix[i-1]+nums[i-1];
-        }
 
         for(int i=0;i<n;i++){
-
-            int ans = totalSum-nums[i]-prefix[i];
-            if(ans==prefix[i]){
+            int ans = totalSum-leftSum-nums[i];
+            if(ans == leftSum){
                 return i;
             }
+
+            leftSum = leftSum + nums[i];
         }
 
         return -1;
-
     }
 };
