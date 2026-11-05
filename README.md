@@ -69,6 +69,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1732-find-the-highest-altitude](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
+| [1929-concatenation-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -252,6 +253,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
