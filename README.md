@@ -57,6 +57,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -99,6 +100,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -125,6 +127,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0832-flipping-an-image](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1861-rotating-the-box](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -378,6 +381,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2418-sort-the-people) |
