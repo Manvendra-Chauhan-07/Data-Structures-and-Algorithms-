@@ -90,6 +90,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
