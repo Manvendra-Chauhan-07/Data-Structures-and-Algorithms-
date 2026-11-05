@@ -35,6 +35,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0349-intersection-of-two-arrays](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0503-next-greater-element-ii) |
@@ -320,6 +321,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0382-linked-list-random-node](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -379,6 +381,7 @@ This Repository contains my DSA problems and their solutions. I use C++ to imple
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Manvendra-Chauhan-07/DSA/tree/master/0846-hand-of-straights) |
