@@ -11,39 +11,33 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-
-        if(head==nullptr) return head;
-
-        if(head->next==nullptr) return head;
         
+        if(head==nullptr){
+            return head;
+        }
+
         unordered_map<int,int> mpp;
-        
+
         ListNode *traverse=head;
-        while(traverse)
-        {
+        while(traverse){
             mpp[traverse->val]++;
             traverse=traverse->next;
         }
 
+        ListNode dummyNode(-1);
+        ListNode *dummyTail = &dummyNode;
         ListNode *current=head;
-        ListNode *temp=new ListNode(-1);
-        ListNode *tail=temp;
 
-        while(current)
-        {
-            if(mpp[current->val]==1)
-            {
-                tail->next=current;
-                tail=tail->next;
-                current=current->next;
-
+        while(current){
+            if(mpp[current->val]==1){
+                dummyTail->next=current;
+                dummyTail=dummyTail->next;
             }
-            else
-            {
-                current=current->next;
-            }
+            current=current->next;
         }
-        tail->next=nullptr;
-        return temp->next;
+
+        dummyTail->next=nullptr;
+
+        return dummyNode.next;
     }
 };
