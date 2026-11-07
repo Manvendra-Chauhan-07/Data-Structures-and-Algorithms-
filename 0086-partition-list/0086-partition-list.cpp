@@ -12,33 +12,29 @@ class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
 
-        ListNode *smallX = new ListNode(-1);
-        ListNode *smallX_tail = smallX;
+        ListNode* lessDummy = new ListNode(0);
+        ListNode* greaterDummy = new ListNode(0);
 
-        ListNode *greatX = new ListNode(-1);
-        ListNode *greatX_tail = greatX;
+        ListNode* less = lessDummy;
+        ListNode* greater = greaterDummy;
 
-        ListNode *current=head;
+        while(head != nullptr) {
 
-        while(current){
-
-            if((current->val)<x){
-                smallX_tail->next=current;
-                smallX_tail=smallX_tail->next;
-                current=current->next;
-                smallX_tail->next=nullptr;
+            if(head->val < x) {
+                less->next = head;
+                less = less->next;
             }
-            else{
-                greatX_tail->next=current;
-                greatX_tail=greatX_tail->next;
-                current=current->next;
-                greatX_tail->next=nullptr;
+            else {
+                greater->next = head;
+                greater = greater->next;
             }
+
+            head = head->next;
         }
 
-        smallX_tail->next=greatX->next;
+        greater->next = nullptr;
+        less->next = greaterDummy->next;
 
-        return smallX->next;
-        
+        return lessDummy->next;
     }
 };
