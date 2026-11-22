@@ -11,42 +11,58 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        if(head==nullptr) return true;
-        if(head->next==nullptr) return true;
+        
+        if(head==nullptr){
+            return true;
+        }
 
+        if(head->next==nullptr){
+            return true;
+        }
 
-        ListNode *slow=head;
-        ListNode *fast=head;
-        while(fast!=nullptr&&fast->next!=nullptr)
-        {
-            slow=slow->next;
-            fast=fast->next->next;
+        ListNode *slow = head;
+        ListNode *fast = head->next;
+
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        ListNode *current=head;
-        while(current->next!=slow)
-        {
-            current=current->next;
+
+        ListNode * future = slow->next;
+
+        slow->next = nullptr;
+
+        ListNode *current = nullptr;
+        ListNode *previous = nullptr;
+
+        while(future){
+            current = future;
+            future = future->next;
+            current->next = previous;
+            previous = current;
         }
-        current->next=nullptr;
-        ListNode *previous=nullptr;
-        ListNode *future=nullptr;
-        current=slow;
-        while(current!=nullptr)
-        {
-            future=current->next;
-            current->next=previous;
-            previous=current;
-            current=future;
-        }
-        while(head!=nullptr&&previous!=nullptr)
-        {
-            if(head->val!=previous->val)
-            {
+
+        ListNode *l1 = head;
+        ListNode *l2 = previous;
+
+        while(l1 && l2){
+            if(l1->val!=l2->val){
                 return false;
             }
-            head=head->next;
-            previous=previous->next;
+            l1 = l1->next;
+            l2 = l2->next;
         }
+
+        if(l1==nullptr && l2!=nullptr){
+            return true;
+        }
+        if(l1!=nullptr && l2==nullptr){
+            return true;
+        }
+        if(l1==nullptr && l2==nullptr){
+            return true;
+        }
+
         return true;
     }
 };
