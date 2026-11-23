@@ -16,28 +16,38 @@ public:
             return head;
         }
 
-        unordered_map<int,int> mpp;
-
-        ListNode *traverse=head;
-        while(traverse){
-            mpp[traverse->val]++;
-            traverse=traverse->next;
+        if(head->next==nullptr){
+            return head;
         }
 
         ListNode dummyNode(-1);
-        ListNode *dummyTail = &dummyNode;
-        ListNode *current=head;
+        ListNode *dummy = &dummyNode;
+        dummy->next = head;
 
-        while(current){
-            if(mpp[current->val]==1){
-                dummyTail->next=current;
-                dummyTail=dummyTail->next;
+        ListNode *previous = &dummyNode;
+        ListNode *current = head;
+        ListNode *future = head->next;
+
+        while(future){
+            
+            if(current->val==future->val){
+                while(future && current->val==future->val){
+                future = future->next;
+                }
+                current = future;
             }
-            current=current->next;
+            else{
+                previous->next = current;
+                previous = current;
+                current = future;
+            }
+
+            if(future) future = future->next;
         }
 
-        dummyTail->next=nullptr;
+        previous->next = current;
 
-        return dummyNode.next;
+        return dummy->next;
+        
     }
 };
