@@ -1,33 +1,28 @@
 class Solution {
 public:
 
-    vector<vector<int>> sub(int index, int n, vector<int> &arr, vector<vector<int>> &ans,vector<int> nums){
+    void findingSubset(int index, int n, vector<int> &nums, vector<int> &arr, vector<vector<int>> &ans){
 
         if(index==n){
             ans.push_back(arr);
-            return ans;
+            return;
         }
 
         arr.push_back(nums[index]);
-        sub(index+1,n,arr,ans,nums);
+        findingSubset(index+1,n,nums,arr,ans);
         arr.pop_back();
-        sub(index+1,n,arr,ans,nums);
-
-        return ans;
+        findingSubset(index+1,n,nums,arr,ans);
 
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
         
-        //we do it by making a call to whether take the element or no taking the element.
-
         vector<vector<int>> ans;
         vector<int> arr;
 
-        int n=nums.size();
+        int n = nums.size();
 
-        sub(0,n,arr,ans,nums);
-
+        findingSubset(0,n,nums,arr,ans);
 
         return ans;
     }
