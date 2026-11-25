@@ -11,30 +11,40 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-
-        ListNode* lessDummy = new ListNode(0);
-        ListNode* greaterDummy = new ListNode(0);
-
-        ListNode* less = lessDummy;
-        ListNode* greater = greaterDummy;
-
-        while(head != nullptr) {
-
-            if(head->val < x) {
-                less->next = head;
-                less = less->next;
-            }
-            else {
-                greater->next = head;
-                greater = greater->next;
-            }
-
-            head = head->next;
+        
+        if(head==nullptr){
+            return nullptr;
         }
 
-        greater->next = nullptr;
-        less->next = greaterDummy->next;
+        ListNode lessthanX(-1);
+        ListNode *headLess = &lessthanX;
+        ListNode *tailLess = &lessthanX;
 
-        return lessDummy->next;
+        ListNode greaterthanX(-1);
+        ListNode *headMore = &greaterthanX;
+        ListNode *tailMore = &greaterthanX;
+
+        ListNode *current = head;
+
+        while(current){
+            
+            ListNode *future = current->next;
+            
+            if(current->val<x){
+                tailLess->next = current;
+                tailLess = tailLess->next;
+            }
+            else{
+                tailMore->next = current;
+                tailMore = tailMore->next;
+            }
+            current->next = nullptr;
+            current = future;
+        }
+
+        tailLess->next = headMore->next;
+        tailMore->next = nullptr;
+
+        return headLess->next;
     }
 };
