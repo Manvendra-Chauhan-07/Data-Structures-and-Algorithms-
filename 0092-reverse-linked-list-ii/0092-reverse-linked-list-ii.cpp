@@ -10,61 +10,54 @@
  */
 class Solution {
 public:
-
-
-    ListNode *reverse(ListNode * start, ListNode *end){
-
-        ListNode *future=start;
-        ListNode *current=nullptr;
-        ListNode *previous=nullptr;
-
-        while(future!=end){
-            current=future;
-            future=future->next;
-            current->next=previous;
-            previous=current;
-        }
-
-        return previous;
-    }
-
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         
-        ListNode *start=head;
-        ListNode *previous1=nullptr;
-        while(--left){
-            previous1=start;
-            start=start->next;
+        if(head==nullptr){
+            return head;
         }
 
-        ListNode *end=head;
-        ListNode *future1=head->next;
-
-        while(--right){
-            future1=future1->next;
-            end=end->next;
+        if(head->next==nullptr){
+            return head;
         }
 
-        ListNode *future=start;
-        ListNode *current=nullptr;
-        ListNode *previous=nullptr;
+        ListNode dummyNode(-1);
+        ListNode *headDummy = &dummyNode;
+        headDummy->next = head;
 
-        while(future!=future1){
-            current=future;
-            future=future->next;
-            current->next=previous;
-            previous=current;
+        ListNode *previousLeft = &dummyNode;
+        ListNode *leftCurrent = head;
+
+        for(int i=1;i<left;i++){
+            previousLeft = leftCurrent;
+            leftCurrent = leftCurrent->next;
+
         }
 
-        if(previous1==0){
-            head=previous;
-            start->next=future;
-        }else{
-            previous1->next=previous;
-            start->next=future1;
+        ListNode *futureNode = head->next;
+        ListNode *rightCurrent = head;
+
+        for(int j=1;j<right;j++){
+            futureNode = futureNode->next;
+            rightCurrent = rightCurrent->next;
         }
 
-        return head;
+        rightCurrent->next = nullptr;
 
+        
+        ListNode *previous = nullptr;
+        ListNode *current = leftCurrent;
+
+        while(current){
+            ListNode *future = current->next;
+            current->next = previous;
+            previous = current;
+            current = future;
+        }
+
+        previousLeft->next = previous;
+        leftCurrent->next = futureNode;
+
+        return headDummy->next;
+        
     }
 };
