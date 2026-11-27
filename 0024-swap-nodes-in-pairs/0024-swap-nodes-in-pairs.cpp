@@ -11,36 +11,38 @@
 class Solution {
 public:
 
-    ListNode *swap(ListNode *current,ListNode *future){
+    ListNode *swapNodes(ListNode *current, ListNode *future){
+
         if(future==nullptr){
             return current;
         }
 
         if(future->next==nullptr){
-            current->next=nullptr;
-            future->next=current;
+            current->next = nullptr;
+            future->next = current;
             return future;
         }
 
-        // current->next=nullptr;
-        // future->next=current;
+        ListNode *currHead = current;
 
-        current->next=swap(future->next,future->next->next);
-        future->next=current;
+        ListNode *returnNode = swapNodes(future->next,future->next->next);
+
+        current->next = returnNode;
+        future->next = current;
 
         return future;
-    }
 
+    }
 
     ListNode* swapPairs(ListNode* head) {
         
         if(head==nullptr){
-            return nullptr;
+            return head;
         }
         if(head->next==nullptr){
             return head;
         }
 
-        return swap(head,head->next);
+        return swapNodes(head,head->next);
     }
 };
