@@ -13,54 +13,60 @@ public:
 
     ListNode *reverse(ListNode *head){
 
-        ListNode *future=head;
-        ListNode *current=nullptr;
-        ListNode *previous=nullptr;
+        ListNode *previous = nullptr;
+        ListNode *current = head;
 
-        while(future){
-            current=future;
-            future=future->next;
-            current->next=previous;
-            previous=current;
+        while(current){
+            ListNode *future = current->next;
+            current->next = previous;
+            previous = current;
+            current = future;
         }
 
         return previous;
     }
 
-    ListNode *path(ListNode *head, int k){
+    ListNode *breakNodes(ListNode *head, int k){
 
+        int K=k;
+        ListNode *currHead = head;
+        ListNode *current = head;
+        ListNode *lastNode = nullptr;
+
+        while(K && current){
+            lastNode = current;
+            current = current->next;
+            K--;
+        }
+
+        if(K>0 && current==nullptr){
+            return currHead;
+        }
+
+        if(lastNode) lastNode->next = nullptr;
+
+        ListNode *returnNode = breakNodes(current,k);
+        ListNode *connectingNode = reverse(currHead);
+
+        currHead->next = returnNode;
+
+        return connectingNode;
+
+    }
+
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        
         if(head==nullptr){
             return head;
         }
-
-        int count=k;
-        ListNode *tempHead=head;
-        ListNode *current=head;
-        ListNode *previous=nullptr;
-
-        while(current && count){
-            previous=current;
-            current=current->next;
-            count--;
+        if(head->next==nullptr){
+            return head;
+        }
+        if(k==0){
+            return head;
         }
 
-        if(count>0){
-            return tempHead;
-        }
+        return breakNodes(head,k);
 
-        ListNode *ans = path(current,k);
-
-        previous->next=nullptr;
-
-        ListNode *newHead = reverse(tempHead);
-
-        tempHead->next=ans;
-
-        return newHead;
-
-    }
-    ListNode* reverseKGroup(ListNode* head, int k) {
-        
-        return path(head,k);
     }
 };
