@@ -12,53 +12,47 @@ class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
         
-        int k1=k-1;
-        int k2=k-1;
-
-        ListNode *traverse=head;
-
-        while(k1 && traverse){
-            traverse=traverse->next;
-            k1--;
+        if(head==nullptr){
+            return head;
+        }
+        if(head->next==nullptr){
+            return head;
         }
 
-        int value1=traverse->val;
+        ListNode *starting = head;
 
-        ListNode *future=head;
-        ListNode *current=nullptr;
-        ListNode *previous=nullptr;
-
-        while(future)
-        {
-            current=future;
-            future=future->next;
-            current->next=previous;
-            previous=current;
+        for(int i=1;i<k;i++){
+            starting = starting->next;
         }
 
-        while(k2 && current)
-        {
-            current=current->next;
-            k2--;
+        ListNode *current = head;
+        ListNode *previous = nullptr;
+
+        while(current){
+            ListNode *future = current->next;
+            current->next = previous;
+            previous = current;
+            current = future;
         }
 
-        int value2=current->val;
+        ListNode *ending = previous;
 
-        ListNode *future1=previous;
-        ListNode *current1=nullptr;
-        ListNode *previous1=nullptr;
-
-        while(future1)
-        {
-            current1=future1;
-            future1=future1->next;
-            current1->next=previous1;
-            previous1=current1;
+        for(int i=1;i<k;i++){
+            ending = ending->next;
         }
 
-        swap(current->val , traverse->val);
+        ListNode *current1 = previous;
+        ListNode *previous1 = nullptr;
+
+        while(current1){
+            ListNode *future1 = current1->next;
+            current1->next = previous1;
+            previous1 = current1;
+            current1 = future1;
+        }
+
+        swap(starting->val,ending->val);
 
         return head;
-
     }
 };
